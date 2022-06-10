@@ -1,0 +1,6 @@
+2022-Jun-10-14:29:16, Started extract
+2022-Jun-10-14:29:16, Ended extract
+2022-Jun-10-14:30:38, Started transform
+2022-Jun-10-14:30:38, Ended transform
+2022-Jun-10-14:33:51, Started load
+2022-Jun-10-14:33:51, Ended load

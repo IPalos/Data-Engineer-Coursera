@@ -1,0 +1,8 @@
+2022-Jun-10-12:15:07, Started run_ETL
+2022-Jun-10-12:15:07, Started extract
+2022-Jun-10-12:15:07, Ended extract
+2022-Jun-10-12:15:07, Started transform
+2022-Jun-10-12:15:07, Ended transform
+2022-Jun-10-12:15:07, Started load
+2022-Jun-10-12:15:07, Ended load
+2022-Jun-10-12:15:07, Ended run_ETL
